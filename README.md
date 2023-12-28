@@ -19,13 +19,43 @@ To write a program to perform linear search and binary search using python progr
 ## Program:
 i)	#Use a linear search method to match the item in a list.
 ```
-
+''' 
+Program for linear search method to match the item in a list
+Developed by:karthi keyan k
+RegisterNumber:23013936
+'''
+a=eval(input())
+b=sorted(a)
+c=eval(input())
+for i in b:
+    if i==c:
+        print(b)
+        print("Element found at index: ",b.index(c))
+        break
+else:
+    print(b)
+    print("Element not found")
 
 
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
-
+''' 
+Program for linear search method to match the item in a list
+Developed by:karthi keyan k
+RegisterNumber:23013936
+'''
+a=eval(input())
+b=sorted(a)
+c=eval(input())
+for i in b:
+    if i==c:
+        print(b)
+        print("Element found at index: ",b.index(c))
+        break
+else:
+    print(b)
+    print("Element not found")
 
 
 
@@ -33,7 +63,22 @@ ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
-
+''' 
+Program for linear search method to match the item in a list
+Developed by:karthi keyan k
+RegisterNumber:23013936
+'''
+a=eval(input())
+b=sorted(a)
+c=eval(input())
+for i in b:
+    if i==c:
+        print(b)
+        print("Element found at index: ",b.index(c))
+        break
+else:
+    print(b)
+    print("Element not found")
 
 
 
@@ -41,8 +86,11 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
 ## Sample Input and Output
 
+![image](https://github.com/Karthi051/Search-Algorithm/assets/148327224/15530b8e-93fc-45e2-869f-330e1e6dc5b4)
 
+![image](https://github.com/Karthi051/Search-Algorithm/assets/148327224/7a86bdd0-7f55-4f7f-8035-43a11fdf615f)
 
+![image](https://github.com/Karthi051/Search-Algorithm/assets/148327224/f0322156-31ea-4583-bf0a-dc3e05dbedb2)
 
 
 
